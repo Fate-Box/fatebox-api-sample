@@ -4,7 +4,7 @@ import requests
 name = "kayu0514"
 
 # API
-api = f"https://fate-box-api.onrender.com/divination/{name}"
+api = f"https://fate-box-api.onrender.com/omikuji/{name}"
 
 req = requests.get(api)
 
