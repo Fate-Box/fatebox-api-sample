@@ -12,7 +12,7 @@
 
 ## APIのエンドポイント
 - omikuji
-
+- constellation
 
 ## 使い方
 `example`を見てください。
