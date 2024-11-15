@@ -10,5 +10,10 @@
 > - APIへの意図的な不正なリクエスト
 
 
+## APIのエンドポイント
+- omikuji
+- constellation
+- images
+
 ## 使い方
-`main.py`を実行して見てください。
+`example`を見てください。
